@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages Ok2
+# Özcan Türkmen
 
-You can use the [editor on GitHub](https://github.com/ozcanturkmen/ozcanturkmen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://avatars1.githubusercontent.com/u/23320140?s=460&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Milestones
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 2
-## Header 3
-### Header 4
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ozcanturkmen/ozcanturkmen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **2019-2020** - Custom skills for Amazon Alexa, Slack apps & bots, Apple Wallet applications, MS Graph applications, Azure SSO implementations, ontology engineering, WP plugin development, AWS serverless cloud backend development (as a top rated *Upwork* freelancer)
+* **2017-2019** - Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS (as CTO in *Contact Circuit Inc.*)
