@@ -1,12 +1,12 @@
 ## Milestones
 
-**2019-2020** Custom skills for Amazon Alexa, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless cloud backend development *as a top rated Upwork freelancer*
+**2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development *as a top rated Upwork freelancer* |
 
-**2017-2019** Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS *as CTO in Contact Circuit Inc.*
+**2017-2019** | Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS *as CTO in Contact Circuit Inc.* |
 
-**2017** Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS 
+**2017** | Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS |
 
-**2015-2016** TV based home shopping system and ERP using Java Spring, JBoss, Oracle, IBM Tivoli, CISCO routers, and Avaya; | Linux System Administration; Network Management *as IT Systems  Manager in CJ MediaSa Inc.*
+**2015-2016** | TV based home shopping system and ERP using Java Spring, JBoss, Oracle, IBM Tivoli, CISCO routers, and Avaya; | Linux System Administration; Network Management *as IT Systems  Manager in CJ MediaSa Inc.* |
 
 2013/14 - E-Commerce web site and B2B application using C#, .NET MVC, WinForms, WCF, Web API, TFS, IIS, SQL Server, JQuery, and PHP (Pandora Bookstore)
 2010/12 - Master Material Logistics System, Distributor Trade System, using Java, IBM iSeries, IBM DB2, and ASP.NET (HYUNDAI Inc.) 
