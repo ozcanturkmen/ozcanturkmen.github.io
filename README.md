@@ -1,8 +1,8 @@
 ## Milestones
 
-**2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development *as a top rated Upwork freelancer* |
+**2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development *top rated freelancer @ Upwork* |
 
-**2017-2019** | Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS *as CTO in Contact Circuit Inc.* |
+**2017-2019** | Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS | *CTO @ Contact Circuit Inc.* |
 
 **2017** | Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS |
 
@@ -14,7 +14,7 @@
 
 **2009-2010** | Hotel/flight/tour reservation websites, using Java web services, JavaScript, IBM WebSphere, and Oracle DB *ETSTUR* |
 
-**2007** | Became a Sun certified Java Web Components developer |
+**2007** | Sun certified Java Web Components developer |
 
 **2006-2008** | Travel agency booking & management software, using Java web, J2EE, and Microsoft ASP technologies *SETUR Travel Inc.* |
 
@@ -24,7 +24,7 @@
 
 **2002** | SMS based chat software for TV channels, using Java servlets and JSP *Bilizi Ltd.* |
 
-**2001** | Became a Sun certified Java programmer |
+**2001** | Sun certified Java programmer | 
 
 **2001** | Java backend and security for board games portal (Tikle/Superonline) |
 
@@ -39,4 +39,4 @@
 
 **1987** | First programming experience (Commodore 64, BASIC) |
 
-**1973** | Born in Germany
+**1973** | Born in Germany | 
