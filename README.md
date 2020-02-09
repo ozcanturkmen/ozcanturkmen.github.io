@@ -4,7 +4,7 @@
 
 **2017-2019** | Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS | *CTO @ Contact Circuit Inc.* |
 
-**2017** | Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS |
+**2017** | Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS | * Node.js Backend Developer @ A Startup Company* |
 
 **2015-2016** | TV based home shopping system and ERP using Java Spring, JBoss, Oracle, IBM Tivoli, CISCO routers, and Avaya; Linux System Administration; Network Management | *IT Systems  Manager @ CJ MediaSa Inc.* |
 
@@ -22,21 +22,21 @@
 
 **2003-2004** | Support & Maintenance System development for Information Systems department | *Oracle Developer / Administrator @ General Military Staff, Ankara* |
 
-**2002** | SMS based chat software for TV channels, using Java servlets and JSP *Bilizi Ltd.* |
+**2002** | SMS based chat software for TV channels, using Java servlets and JSP | *Java Developer @ Bilizi Ltd.* |
 
-**2001** | Sun certified Java programmer | 
+**2001** | Sun certified Java programmer | *@ Istanbul* | 
 
-**2001** | Java backend and security for board games portal (Tikle/Superonline) |
+**2001** | Java backend and security for board games portal | *Java Developer @ Tikle/Superonline* |
 
-**2000** | E-commerce bookstore and matchmaker dating site development using Microsoft SQL Server, ASP, and Java *EBI Ltd.* |   
-**1999** | Sales force automation for the customer and retail sector, using Oracle Forms/Reports, Oracle Application Server, and Oracle WebDB *Porcan Inc.* |
+**2000** | E-commerce bookstore and matchmaker dating site development using Microsoft SQL Server, ASP, and Java | *ASP and Java Developer @ EBI Ltd.* |   
+**1999** | Sales force automation for the customer and retail sector, using Oracle Forms/Reports, Oracle Application Server, and Oracle WebDB | *Oracle Applications Developer @ Porcan Inc.* |
 
-**1997-1998** | Office automation and document management applications with IBM Lotus Notes, financial decision support systems with Oracle Forms, Baan IV ERP customizations * NETAS Northern Electric Telecommunication Inc.* |
+**1997-1998** | Office automation and document management applications with IBM Lotus Notes, financial decision support systems with Oracle Forms, Baan IV ERP customizations | * Oracle and Lotus Notes Applications Developer @ NETAS Northern Electric Telecommunication Inc.* |
 
-**1997-1998** | Oracle, IBM, Sun Trainings (Oracle - SQL, PL/SQL Programming, Oracle Forms, Oracle Web Application Server; IBM - IBM Lotus Notes; Sun - Java; Baan ERP - Baan IV Tools | 
+**1997-1998** | Oracle, IBM, Sun Trainings (Oracle - SQL, PL/SQL Programming, Oracle Forms, Oracle Web Application Server; IBM - IBM Lotus Notes; Sun - Java; Baan ERP - Baan IV Tools | *Oracle, IBM, Sun @ Istanbul* |
 
-**1996** | Graduation in Control and Computer Engineering *Istanbul Technical University* |
+**1996** | Graduation | *Control and Computer Engineering @ Istanbul Technical University* |
 
-**1987** | First programming experience (Commodore 64, BASIC) |
+**1987** | First programming experience in BASIC | * @ Commodore 64* |
 
-**1973** | Born in Germany | 
+**1973** | Born | * @ Bavaria, Germany* | 
