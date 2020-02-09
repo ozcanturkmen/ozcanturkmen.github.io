@@ -1,7 +1,3 @@
-![Image](https://avatars1.githubusercontent.com/u/23320140?s=460&v=4)
-
----
-
 ## Milestones
 
 **2019-2020** Custom skills for Amazon Alexa, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless cloud backend development *as a top rated Upwork freelancer*
