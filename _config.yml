@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Özcan Türkmen, Senior Software Developer
-description: ![Image](https://avatars1.githubusercontent.com/u/23320140?s=460&v=4)
-show_downloads: false
+title: Özcan Türkmen
+description: Senior Software Engineer
+logo: "https://avatars1.githubusercontent.com/u/23320140?s=460&v=4"
+show_downloads: "false"
