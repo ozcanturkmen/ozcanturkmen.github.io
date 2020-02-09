@@ -1,26 +1,26 @@
 ## Milestones
 
-**2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development *top rated freelancer @ Upwork* |
+**2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development | *Top rated freelancer @ Upwork* |
 
 **2017-2019** | Backend for an innovative B2B/B2C contact management application, using Node.js, Java, React.js, serverless framework, Apache Open NLP, Stanford Protégé, MongoDB Atlas, and AWS | *CTO @ Contact Circuit Inc.* |
 
 **2017** | Backend for a containerized ride service hailing app, using Node.js, Docker, Socket.io, Google Maps APIs, MongoDB, and AWS |
 
-**2015-2016** | TV based home shopping system and ERP using Java Spring, JBoss, Oracle, IBM Tivoli, CISCO routers, and Avaya; Linux System Administration; Network Management *as IT Systems  Manager in CJ MediaSa Inc.* |
+**2015-2016** | TV based home shopping system and ERP using Java Spring, JBoss, Oracle, IBM Tivoli, CISCO routers, and Avaya; Linux System Administration; Network Management | *IT Systems  Manager @ CJ MediaSa Inc.* |
 
-**2013-2014** | E-Commerce web site and B2B application using C#, .NET MVC, WinForms, WCF, Web API, TFS, IIS, SQL Server, JQuery, and PHP *Pandora Bookstore* |
+**2013-2014** | E-Commerce web site and B2B application using C#, .NET MVC, WinForms, WCF, Web API, TFS, IIS, SQL Server, JQuery, and PHP | *.NET and PHP Developer @ Pandora Bookstore* |
 
-**2010-2012** | Master Material Logistics System, Distributor Trade System, using Java, IBM iSeries, IBM DB2, and ASP.NET *HYUNDAI Inc.* |
+**2010-2012** | Master Material Logistics System, Distributor Trade System, using Java, IBM iSeries, IBM DB2, and ASP.NET | *Java and .NET Developer @ HYUNDAI Inc.* |
 
-**2009-2010** | Hotel/flight/tour reservation websites, using Java web services, JavaScript, IBM WebSphere, and Oracle DB *ETSTUR* |
+**2009-2010** | Hotel/flight/tour reservation websites, using Java web services, JavaScript, IBM WebSphere, and Oracle DB | *Java Developer @ ETSTUR* |
 
-**2007** | Sun certified Java Web Components developer |
+**2007** | Sun certified Java Web Components developer | *@ Istanbul* |
 
-**2006-2008** | Travel agency booking & management software, using Java web, J2EE, and Microsoft ASP technologies *SETUR Travel Inc.* |
+**2006-2008** | Travel agency booking & management software, using Java web, J2EE, and Microsoft ASP technologies | *Java and ASP Developer @ SETUR Travel Inc.* |
 
-**2005** | Freelance SEO expert and content writer |
+**2005** | Freelance SEO expert and content writer | *@ Istanbul* |
 
-**2003-2004** | Support & Maintenance System development for Information Systems department *General Military Staff* |
+**2003-2004** | Support & Maintenance System development for Information Systems department | *Oracle Developer / Administrator @ General Military Staff, Ankara* |
 
 **2002** | SMS based chat software for TV channels, using Java servlets and JSP *Bilizi Ltd.* |
 
