@@ -1,3 +1,5 @@
+Hi, please take some time to check my GitHub profile page where I showcase some of my portfolio. Thanks for dropping by!   
+
 ## Milestones
 
 **2019-2020** | Alexa skills, Slack apps & bots, Apple Wallet applications, MS Graph applications, Ontology engineering, AWS serverless backend development *(as Top rated freelancer @ Upwork)* |
