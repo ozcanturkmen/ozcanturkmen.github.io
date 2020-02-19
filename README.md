@@ -1,4 +1,4 @@
-Hi, please take some time to check my GitHub profile page where I showcase some of my portfolio. Thanks for dropping by!   
+> Hi, please take some time to check my GitHub profile page where I showcase some of my portfolio. Thanks for dropping by!   
 
 ## Milestones
 
